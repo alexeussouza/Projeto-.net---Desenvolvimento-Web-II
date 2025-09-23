@@ -1,0 +1,15 @@
+TestResults/ 
+*.log 
+*.pdb 
+*.vs 
+
+
+
+*.log 
+*.pdb 
+*.vs 
+
+bin/ 
+obj/ 
+Debug/ 
+Release/ 
